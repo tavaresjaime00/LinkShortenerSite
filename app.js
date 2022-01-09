@@ -15,7 +15,7 @@ function shortenUrl() {
 		method: `POST`,
 		headers: {
 			accept: `application/json`,
-			authorization: `Bearer d4bf243a78ac233cb0f4a53519475208b81d6b9a`,
+			authorization: `Bearer c5695b5feadd98dce95621b123222609e2b0035e`,
 			'content-type': `application/json`,
 		},
 		body: JSON.stringify(body)
